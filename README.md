@@ -1,5 +1,5 @@
 ### About me
-My name is Dawid! I have a degree in Computer Science from Akademia Nauk Stosowanych in Tarnów. 
+My name is Dawid! I have a Bachelor of Engineering degree in Computer Science from Akademia Nauk Stosowanych in Tarnów. 
 Right now I'm looking for a job as Backend Developer.
 
 ### Technologies
