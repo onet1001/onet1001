@@ -1,4 +1,9 @@
-### Hi there 👋
+### About me
+My name is Dawid! Right now I'm looking for a job as Backend Developer.
+I have a degree in Computer Science from Akademia Nauk Stosowanych in Tarnów. 
+
+### Technologies
+Java - Spring - SQL - Angular - JavaScript - React
 
 <!--
 **onet1001/onet1001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
