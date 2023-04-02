@@ -1,6 +1,6 @@
 ### About me
-My name is Dawid! Right now I'm looking for a job as Backend Developer.
-I have a degree in Computer Science from Akademia Nauk Stosowanych in Tarnów. 
+My name is Dawid! I have a degree in Computer Science from Akademia Nauk Stosowanych in Tarnów. 
+Right now I'm looking for a job as Backend Developer.
 
 ### Technologies
 Java - Spring - SQL - Angular - JavaScript - React
